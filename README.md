@@ -22,9 +22,9 @@ This repository contains my notes, solutions, and implementations based on the b
 
 ## 🧠 Goals
 
-- Develop a deeper understanding of compiler internals  
+- Develop a deeper understanding of compiler structure and internals  
 - Implement a small compiler/interpreter as I progress through the book  
-- Take structured notes to prepare for advanced courses or research in **Programming Languages** and **Compiler Engineering**
+- Take structured notes to prepare for advanced courses and research in **Programming Languages** and **Compiler Engineering**
 
 ---
 
