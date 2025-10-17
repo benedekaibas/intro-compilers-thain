@@ -1,0 +1,5 @@
+# Ignore assembly, preprocessed, and object files
+*.s
+*.i
+*.o
+
