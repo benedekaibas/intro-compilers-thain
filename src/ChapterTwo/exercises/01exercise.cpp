@@ -18,4 +18,5 @@ int main() {
 
 // Stop after the preprocessor step in the compilation process: clang++ -E your_file.cpp -o preprocessed_output.i
 // Stop after the compiler step in the compilation process: clang++ -c your_file.cpp -o your_file.o
-// Stop after the assembler step i nthe compilation process: clang++ -S your_file.cpp
+// Stop after the assembler step in the compilation process: clang++ -S your_file.cpp
+// Stop after the linker step in the compilation process: clang++ your_file.o another_file.o -o my_program
