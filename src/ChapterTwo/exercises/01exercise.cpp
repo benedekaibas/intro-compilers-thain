@@ -28,3 +28,8 @@ int main() {
 // Stop after the **linker** step (produce executable):
 // clang++ your_file.o another_file.o -o my_program
 
+/*
+   This is the whole prcocess when we compile a C++ source code. These are the steps that happen when we run clang++ program.cpp -o program.
+   If we run each step and observe the files that are the outputs then we can see what actaully happens at preprocessing, compiling, assembling,
+   and linking.
+*/
